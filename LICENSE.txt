@@ -1,0 +1,16 @@
+Mosaic - Source-Available License
+---------------------------------
+
+Copyright (c) 2025 Sophia Celeste
+
+All rights reserved.
+
+The source code in this repository is provided for reference purposes only.
+You may view, clone, and share this repository in unmodified form.
+
+You may NOT, without prior written permission from the author:
+- Copy or redistribute the code in source or binary form.
+- Modify or create derivative works based on this code.
+- Use this code or derivatives for commercial purposes.
+
+This project is not open source. It is provided "AS IS" without warranty of any kind.

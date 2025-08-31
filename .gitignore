@@ -1,0 +1,41 @@
+# Build directories
+/build/
+/build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Visual Studio / MSVC
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.obj
+*.o
+*.pdb
+*.idb
+*.exe
+*.dll
+*.lib
+*.ilk
+*.log
+
+# Other common ignores
+*.swp
+*.tmp
+*.bak
+*.user
+*.DS_Store
